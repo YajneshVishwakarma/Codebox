@@ -29,9 +29,6 @@ public class Student_School {
         this(id,name);
         this.rno = rno;
     }
-
-
-
 }
 
 

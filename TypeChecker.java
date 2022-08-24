@@ -12,6 +12,7 @@ public class Program15 {
 
         Scanner scan = new Scanner(System.in);
 
+        System.out.println("Enter the data to check the Data type");
         String n = scan.next();
 
         if (pat1.matcher(String.valueOf(n)).matches())
